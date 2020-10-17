@@ -1,6 +1,6 @@
 # HappyNLW
 <h1 align="center">
-    <img alt="Happy" src="logo.svg" height="250px" />
+    <img alt="Happy" src="logo.svg" height="50px" />
     <br>Next Level Week #3<br/>
     Node.js | ReactJS | React Native
 </h1>
