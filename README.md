@@ -1,13 +1,16 @@
 # HappyNLW
 <h1 align="center">
-    <img alt="hAppy" title="hAppy" src="hAppyLogo.svg" />
+    <img alt="Happy" src="logo.svg" height="250px" />
+    <br>Next Level Week #3<br/>
+    Node.js | ReactJS | React Native
 </h1>
 
+
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-Technologies">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layouts">Layouts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licence">Licence</a>
 </p>
 
 <p align="center">
@@ -22,9 +25,8 @@
   <img alt="hAppy" src="happy.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Technologies
+This project was developed using the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
@@ -32,23 +34,29 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 💻 Projeto
+## 💻 Project
 
-O hAppy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
+Happy is an application to connect people with orphanages all around the world and bring more happiness to children.💜
 
-## 🔖 Layout
-
-Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+## 🔖 Layouts
+In the links below you find the layouts mobile and web for this project. I remind you that you need to have an account in [Figma](http://figma.com/)to access them.
 
 - [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
 - [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile)
 
 
 
-## :memo: Licença
+## :memo: Licence
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the [LICENSE] file (LICENSE.md) for more details.
+<h3 align="center">
+Done by <a href="https://www.linkedin.com/in/antonio-neri-6789828/">Antonio Neri</a>
+<br><br>
+<a href="https://rocketseat.com.br">
+  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+</a>
+</h3>
 
 ---
+<sup>Project developed with the tutorship of [Diego Fernandes](https://github.com/diego3g), by [Rocketseat](rocketseat.com.br).</sup>
 
-Feito com ♥ by 
