@@ -1,6 +1,6 @@
 # HappyNLW
 <h1 align="center">
-    <img alt="Happy" src="logo.svg" height="50px" />
+    <img alt="Happy" src="logo.svg" height="100px" />
     <br>Next Level Week #3<br/>
     Node.js | ReactJS | React Native
 </h1>
@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="hAppy" src="happy.png" width="100%">
+  <img alt="hAppy" src="happy.png" width="60%">
 </p>
 
 ## 🚀 Technologies
